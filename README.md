@@ -1,7 +1,6 @@
-# clasificacion_memes_misoginos
-
 # Clasificación de memes misóginos  
-![UABC Logo](https://via.placeholder.com/150x50?text=UABC)  
+ 
+<img src="https://comunicacioninstitucional.uabc.mx/wp-content/uploads/2024/03/Escudo_0_0-e1709986753738-768x1042.png" width=20% height=20%>
 
 **Autores**: Abraham Cisneros Valladolid  
 **Afiliación**: Facultad de Ciencias, Universidad Autónoma de Baja California (UABC)  
